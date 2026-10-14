@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/marti/Desktop/cse341/typescript-auth-system/src/app/dashboard/page.tsx"],"sourcesContent":["\r\nimport Link from \"next/link\";\r\n\r\nexport default function DashboardPage() {\r\n  return (\r\n    <main className=\"auth-page\">\r\n      <section className=\"auth-card\">\r\n        <h1>Dashboard</h1>\r\n\r\n        <p className=\"auth-description\">\r\n          Welcome to your account dashboard.\r\n        </p>\r\n\r\n        <p>\r\n          Your profile information and logout functionality will be added next.\r\n        </p>\r\n\r\n        <p className=\"auth-footer\">\r\n          <Link href=\"/login\">Go to login</Link>\r\n        </p>\r\n      </section>\r\n    </main>\r\n  );\r\n}\r\n"],"names":["DashboardPage","className","href"],"mappings":";;;;;AACA;;;AAEe,SAASA;IACtB,qBACE,8OAAC;QAAKC,WAAU;kBACd,cAAA,8OAAC;YAAQA,WAAU;;8BACjB,8OAAC;8BAAG;;;;;;8BAEJ,8OAAC;oBAAEA,WAAU;8BAAmB;;;;;;8BAIhC,8OAAC;8BAAE;;;;;;8BAIH,8OAAC;oBAAEA,WAAU;8BACX,cAAA,8OAAC,0LAAI;wBAACC,MAAK;kCAAS;;;;;;;;;;;;;;;;;;;;;;AAK9B"}}]
+}
