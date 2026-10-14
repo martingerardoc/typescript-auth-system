@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/marti/Desktop/cse341/typescript-auth-system/src/app/login/page.tsx"],"sourcesContent":["\r\nimport Link from \"next/link\";\r\n\r\nexport default function LoginPage() {\r\n  return (\r\n    <main className=\"auth-page\">\r\n      <section className=\"auth-card\">\r\n        <Link href=\"/\" className=\"back-link\">\r\n          ← Home\r\n        </Link>\r\n\r\n        <h1>Sign in</h1>\r\n\r\n        <p className=\"auth-description\">\r\n          Welcome back! The login form will be added next.\r\n        </p>\r\n\r\n        <p className=\"auth-footer\">\r\n          Don&apos;t have an account?{\" \"}\r\n          <Link href=\"/register\">Create an account</Link>\r\n        </p>\r\n      </section>\r\n    </main>\r\n  );\r\n}\r\n"],"names":["LoginPage","className","href"],"mappings":";;;;;AACA;;;AAEe,SAASA;IACtB,qBACE,8OAAC;QAAKC,WAAU;kBACd,cAAA,8OAAC;YAAQA,WAAU;;8BACjB,8OAAC,0LAAI;oBAACC,MAAK;oBAAID,WAAU;8BAAY;;;;;;8BAIrC,8OAAC;8BAAG;;;;;;8BAEJ,8OAAC;oBAAEA,WAAU;8BAAmB;;;;;;8BAIhC,8OAAC;oBAAEA,WAAU;;wBAAc;wBACG;sCAC5B,8OAAC,0LAAI;4BAACC,MAAK;sCAAY;;;;;;;;;;;;;;;;;;;;;;;AAKjC"}}]
-}
